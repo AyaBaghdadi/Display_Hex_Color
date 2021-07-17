@@ -1,8 +1,6 @@
+
 //
-//  AppDelegate.swift
-//  ColorInHex
-//
-//  Created by OSX on 17/07/2021.
+//  Created by Aya Baghdadi.
 //
 
 import UIKit
